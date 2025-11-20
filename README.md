@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Tanvir Rahman An Noor</h1>
 <h3 align="center">Agriculture Student | Learning GIS, Data Analytics & GitHub</h3>
 
+Author - Md. Tanvir Rahman An Noor
+
 - 📫 How to reach me **tanvirrahman200779@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
